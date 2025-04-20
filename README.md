@@ -108,9 +108,16 @@ I believe real-world impact begins where research meets hustle. Let’s build co
 ---
 
 ### 💭 A Thought That Keeps Me Wondering...
-Why do we measure a successful person/student with milestones he has reached; instead of the progresses he has done ?? 
+Why do we measure a successful person/student with the milestones he has reached; instead of the progresses he has done ?? 
 
 ---
+### 🌀 My Contributions
+
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=SATYAMKAHALI&theme=tokyonight&hide_border=true)
+
+---
+
+
 _✨ Thanks for visiting! Feel free to connect with me anytime._
 
 
