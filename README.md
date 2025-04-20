@@ -104,6 +104,7 @@ I believe real-world impact begins where research meets hustle. Let’s build co
 
 ---
 ### 🤗 Check my HF hub
+<p align="center">
 <a href="https://huggingface.co/Satyam66">
     <img src="https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
