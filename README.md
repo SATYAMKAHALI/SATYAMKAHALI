@@ -65,9 +65,6 @@ Welcome to my GitHub profile!
   <a href="https://www.linkedin.com/in/satyam-kahali-883098235/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://huggingface.co/Satyam66">
-    <img src="https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
 </p>
 
 ---
@@ -106,17 +103,22 @@ Welcome to my GitHub profile!
 I believe real-world impact begins where research meets hustle. Let’s build cool things 🌍🔥
 
 ---
-
-### 💭 A Thought That Keeps Me Wondering...
-Why do we measure a successful person/student with the milestones he has reached; instead of the progresses he has done ?? 
-
+### 🤗 Check my HF hub
+<a href="https://huggingface.co/Satyam66">
+    <img src="https://img.shields.io/badge/HuggingFace-F9D423?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 ---
+
 ### 🌀 My Contributions
 
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=SATYAMKAHALI&theme=tokyonight&hide_border=true)
 
 ---
 
+### 💭 A Thought That Keeps Me Wondering...
+Why do we measure a successful person/student with the milestones he has reached; instead of the progresses he has done ?? 
+
+---
 
 _✨ Thanks for visiting! Feel free to connect with me anytime._
 
