@@ -72,7 +72,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🌱 About Me
+### 🫣 About Me
 
 - 🤖 Building **multilingual agricultural AI assistants** using fine-tuned **Phi-3**, **LLaVA**, and **Vision Models**  
 - 🧠 Developing **RAG-based Assistants** for platforms like **KnowledgeSpace** using **NIFSTD**  
