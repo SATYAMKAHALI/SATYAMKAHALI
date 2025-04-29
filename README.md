@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--
 <div align="center">
 
-### 👋 Hi there, I'm Satyam Kahali 👨‍💻  
+### I'm Satyam Kahali 👨‍💻  
 Welcome to my GitHub profile!
 
 
