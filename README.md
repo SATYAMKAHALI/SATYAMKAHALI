@@ -54,7 +54,7 @@ Welcome to my GitHub profile!
 -->
 
 <h1 align="center"> I'm Satyam Kahali </h1>
-<h3 align="center">  🧠 ML/DL Enthusiast | 🌾 AgriTech Innovator | 🛠️ Full-Stack Developer</h3>
+<h3 align="center">  🧠 ML/DL Enthusiast | 📈 Data Scientist | 🛠️ Full-Stack Developer</h3>
 
 📫 How to reach me:
 
